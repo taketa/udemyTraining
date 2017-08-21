@@ -28,6 +28,7 @@ _testmain.go
 
 # Directory-based project format:
 .idea/
+.gitignore
 .idea/workspace.xml
 **/.idea/workspace.xml
 
